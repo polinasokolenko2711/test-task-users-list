@@ -1,0 +1,11 @@
+table {
+  width: 100vw;
+
+  input {
+    border: 0;
+  }
+
+  input:focus {
+    border: 1px solid black;
+  }
+}
